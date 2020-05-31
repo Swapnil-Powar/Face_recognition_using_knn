@@ -7,9 +7,9 @@
 
 Steps to run the project:
 
-1.Install python and pip
+1.Install python and pip.
 
-2.Install numpy and open cv (cv2)
+2.Install numpy and open cv (cv2).
 
 3.run python face_data_collect.py
 
